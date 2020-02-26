@@ -1,0 +1,11 @@
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\bin\Debug\netcoreapp2.1\BeerMonastery.deps.json
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\bin\Debug\netcoreapp2.1\BeerMonastery.runtimeconfig.json
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\bin\Debug\netcoreapp2.1\BeerMonastery.runtimeconfig.dev.json
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\bin\Debug\netcoreapp2.1\BeerMonastery.dll
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\obj\Debug\netcoreapp2.1\BeerMonastery.csprojAssemblyReference.cache
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\obj\Debug\netcoreapp2.1\BeerMonastery.csproj.CoreCompileInputs.cache
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\obj\Debug\netcoreapp2.1\BeerMonastery.AssemblyInfoInputs.cache
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\obj\Debug\netcoreapp2.1\BeerMonastery.AssemblyInfo.cs
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\bin\Debug\netcoreapp2.1\BeerMonastery.pdb
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\obj\Debug\netcoreapp2.1\BeerMonastery.dll
+C:\Users\Mauno-Mato\source\repos\BeerMonastery\BeerMonastery\obj\Debug\netcoreapp2.1\BeerMonastery.pdb
